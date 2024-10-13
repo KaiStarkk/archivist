@@ -1,0 +1,30 @@
+{
+	"files.exclude": {
+		"**/.svelte-kit": true,
+		"**/.vscode": true,
+		"**/node_modules": true,
+		".gitignore": true,
+		".npmrc": true,
+		".prettierignore": true,
+		".prettierrc": true,
+		"eslint.config.js": true,
+		"package.json": true,
+		"package-lock.json": true,
+		"playwright.config.ts": true,
+		// "postcss.config.js": true,
+		"postcss.config.cjs": true,
+		"svelte.config.js": true,
+		"tailwind.config.ts": true,
+		"tsconfig.json": true,
+		"vite.config.ts": true,
+
+		// "static": true,
+		"tests": true,
+
+		"src/app.postcss": true,
+		// "src/app.css": true,
+		"src/app.d.ts": true,
+		"src/app.html": true,
+		"src/index.test.ts": true,
+	}
+}
